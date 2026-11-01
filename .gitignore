@@ -1,0 +1,40 @@
+# ==========================================
+# Python Virtual Environment (venv)
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================================
+# Jupyter & JupyterLab Files
+# ==========================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.labworkspace
+.jupyter/
+.virtual_documents/
+
+# ==========================================
+# Python Cache & Build Artifacts
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+
+# ==========================================
+# OS & IDE Metadata
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
