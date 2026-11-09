@@ -4,3 +4,4 @@
 2. Numpy and Matplotlib
 3. Linear Regression
 4. Linear Classification
+5. Multiple Linear Regression & Softmax Classification
